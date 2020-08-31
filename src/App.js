@@ -10,8 +10,8 @@ function App() {
       <Row title="Trending Now" fetchUrl={request.fetchTrending}/>
       <Row title="Top Rated" fetchUrl={request.fetchTopRated}/>
       <Row title="Action Movies" fetchUrl={request.fetchActionMovies}/>
-      <Row title="Comedy" fetchUrl={request.fetchComdeyMovies}/>
-      <Row title="Horror Movies" fetchUrl={request.fetchComdeyMovies}/>
+      <Row title="Comedy" fetchUrl={request.fetchComedyMovies}/>
+      <Row title="Horror Movies" fetchUrl={request.fetchHorrorMovies}/>
       <Row title="Romance" fetchUrl={request.fetchRomanceMovies}/>
       <Row title="Documentaries" fetchUrl={request.fetchDocumentaries}/>
     </div>
