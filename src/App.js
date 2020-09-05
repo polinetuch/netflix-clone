@@ -2,6 +2,7 @@ import React from 'react';
 import Row from './Rows/Row';
 import request from './Request/request';
 import Banner from './Banner/Banner';
+import './App.css';
 
 function App() {
   return (
