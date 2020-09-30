@@ -1,6 +1,7 @@
 # Netflix Clone
 
 [View App](https://netflix-clone-310da.web.app/)
+[View video demo](https://drive.google.com/file/d/1Vb_FiaKUYVi0C2XhYuX-DFlh3RXs3d--/view)
 
 ### Technology Used:
 
