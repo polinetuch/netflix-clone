@@ -6,7 +6,7 @@
 
 ### Technology Used:
 
-    1. React JS & hooks
+    1. ⚛ React JS & hooks
     2. Firebase for deployment
     3. TMDB API (The Movie Database)
     4. CSS (Flexbox)
