@@ -16,8 +16,16 @@
 
 This is the frontend web application of Netflix. It is built entirely on React and utilising
 React modern features like hooks/ternary operator/ES6. The app queries The Movie Database API
-via Axios to get different genres of movies such as Netflix Original, Trending Now, Top Rated,
-Action Movies, Comedy, Horror Movies, Romance and Documentaries.
+via Axios to get different genres of movies such as:
+
+    1. Netflix Original
+    2. Trending Now
+    3. Top Rated
+    4. Action Movies
+    5. Comedy
+    6. Horror Movies
+    7. Romance
+    8. Documentaries.
 
 By utilising movie-trailer and react-youtube npm, the movie name gets passed as a string to
 query for the video code in movie-trailer. React-youtube then plays the movie trailers that
